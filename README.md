@@ -1,5 +1,6 @@
 # Java-Assesment-Test-Task2
 Assesment test for an Internship - Java
+
 I assumed that tasks are separate from each other and because of that I decided to create different data structures for different tasks - a new instance each time
 
 For the task with comparing carts: 
